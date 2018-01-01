@@ -1,6 +1,6 @@
 export const AUTH_CONFIG = {
-  clientId: 'eRXCPA8d7oU6uzGbSF9t1b13gEyxMs8n',
-  domain: 'invoicecycle.eu.auth0.com',
+  clientId: 'YOUR_CLIENT_ID',
+  domain: 'some-domain.eu.auth0.com',
   callbackURL: 'http://localhost:8080',
-  apiUrl: 'https://uk-risk-api.invoicecycle.com/'
+  apiUrl: 'https://api.some-domain.com/'
 }
